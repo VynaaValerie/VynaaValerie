@@ -19,7 +19,7 @@
 
 <dl>
     <dt align="center">Name:</dt>
-    <dd align="center">Vynaa</dd>
+    <dd align="center">Vynaa Chan</dd>
     <dt align="center">Gender:</dt>
     <dd align="center">Girl</dd>
     <dt align="center">Loves:</dt>
