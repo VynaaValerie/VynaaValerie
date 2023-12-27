@@ -59,11 +59,11 @@
         </div>
         <div class="stat">
             <h3>Top Languages</h3>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art1ord&layout=compact&theme=dark">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VynaaValerie&layout=compact&theme=dark">
         </div>
         <div class="stat">
             <h3>GitHub Stats</h3>
-            <img src="https://github-readme-stats.vercel.app/api?username=Art1ord&show_icons=true&theme=dark&show=reviews">
+            <img src="https://github-readme-stats.vercel.app/api?username=VynaaValerie&show_icons=true&theme=dark&show=reviews">
         </div>
         <div class="stat">
             <h3>Wakatime</h3>
