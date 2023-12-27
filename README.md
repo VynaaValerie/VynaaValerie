@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Art1ord/Art1ord/blob/main/assets/banner.jpg">
+    <img src="https://a.top4top.io/p_2917t3bf19.jpg">
 </div>
 
 <div align="center">
