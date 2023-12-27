@@ -67,7 +67,7 @@
         </div>
         <div class="stat">
             <h3>Wakatime</h3>
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Art1ord&theme=dark">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VynaaValerie&theme=dark">
         </div>
     </div>
 </div>
