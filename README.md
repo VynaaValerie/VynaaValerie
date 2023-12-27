@@ -64,14 +64,6 @@
         <div class="stat">
             <h3>GitHub Stats</h3>
             <img src="https://github-readme-stats.vercel.app/api?username=VynaaValerie&show_icons=true&theme=dark&show=reviews">
-        </div>
-        <div class="stat">
-            <h3>-</h3>
-            <img src="-">
-        </div>
-    </div>
-</div>
-
 <div align="center">
     <h2>𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙧𝙚𝙖𝙙𝙞𝙣𝙜</h2>
 </div>
