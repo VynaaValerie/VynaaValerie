@@ -59,7 +59,7 @@
         </div>
         <div class="stat">
             <h3>Top Languages</h3>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VynaaValerie&layout=compact&theme=dark">
+            <img src="https://d.top4top.io/p_2917hsvf29.gif">
         </div>
         <div class="stat">
             <h3>GitHub Stats</h3>
