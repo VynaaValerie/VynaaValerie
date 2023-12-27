@@ -5,7 +5,7 @@
 <div align="center">
     <h1>𝗛𝗶, 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲</h1>
     <a href="https://discord.com/users/936621352738250843">
-        <img src="https://telegra.ph/file/9ac8918bc081b12262fa5.mp4"/>
+        <img src="https://telegra.ph/file/97cc66919b3fa27f2fdbd.jpg"/>
     </a>
 </div>
 
