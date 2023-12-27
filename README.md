@@ -21,11 +21,11 @@
     <dt align="center">Name:</dt>
     <dd align="center">Vynaa</dd>
     <dt align="center">Gender:</dt>
-    <dd align="center">he/him</dd>
+    <dd align="center">Girl</dd>
     <dt align="center">Loves:</dt>
     <dd align="center">Anime, Manga, Games</dd>
     <dt align="center">Hobbies:</dt>
-    <dd align="center">Web Development, Streaming</dd>
+    <dd align="center">Web Development, Bot Creator</dd>
 </dl>
 
 <div align="center">
