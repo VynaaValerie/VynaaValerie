@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-    <img src="https://telegra.ph/file/9ac8918bc081b12262fa5.gif">
+    <img src="https://telegra.ph/file/95b675a0cc6d10a124586.jpg">
 </div>
 
 <dl>
