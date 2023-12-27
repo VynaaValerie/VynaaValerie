@@ -90,8 +90,8 @@
 </div>
 
 <dl>
-    <dt align="center">Discord:</dt>
-    <dd align="center">Art1ord</dd>
+    <dt align="center">WhatsApp:</dt>
+    <dd align="center">https://wa.me/6282389924037</dd>
     <dt align="center">Telegram:</dt>
-    <dd align="center">@Art1ord</dd>
+    <dd align="center">@VLShop2</dd>
 </dl>
