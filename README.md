@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/Art1ord/Art1ord/blob/main/assets/Knowledge.gif">
+    <img src="https://c.top4top.io/p_2917xckd38.gif">
 </div>
 
 <dl>
