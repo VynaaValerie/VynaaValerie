@@ -16,7 +16,7 @@
 - **Passion:** Coding bots, automations & exploring AI frontiers
 - **Currently Learning:** Advanced JavaScript & Natural Language Processing
 - **Contact:** vynaachan@gmail.com | WhatsApp: +6282389924037
-- **Fake Join Date:** Joined GitHub since 2010
+- **Join Date:** Joined GitHub since 2010
 
 ---
 
