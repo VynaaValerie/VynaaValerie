@@ -1,86 +1,84 @@
 <div align="center">
-  
-  <img src="profile.jpeg" alt="Vynaa Valerie" width="200" height="200" style="border-radius: 50%; border: 4px solid #F7139E; margin-bottom: 20px;">
-  
-  # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=F7139E&center=true&vCenter=true&width=900&height=80&lines=Hey+👋+I'm+Vynaa+Valerie;Bot+Developer+%7C+AI+Specialist;JavaScript+Enthusiast+%7C+Tech+Innovator" alt="Typing SVG" />
+
+<!-- Banner / Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=VynaaValerie&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Bot%20Developer%20%7C%20AI%20Specialist&descAlignY=62&descAlign=50" width="100%"/>
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VynaaValerie&label=Profile%20Views&color=F7139E&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/VynaaValerie?label=Followers&style=flat-square&color=F7139E" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/VynaaValerie?label=Stars&style=flat-square&color=F7139E" alt="stars"/>
-</p>
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=500&lines=Bot+Developer+%7C+AI+Specialist;WhatsApp+Bot+Creator;JavaScript+%26+Node.js+Enjoyer;Always+Learning+New+Things+%F0%9F%92%AB" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Stats badges -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=VynaaValerie&style=for-the-badge&color=ff69b4&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/VynaaValerie?style=for-the-badge&color=9b5de5&label=Followers)
+![Stars](https://img.shields.io/github/stars/VynaaValerie?style=for-the-badge&color=FFD700&label=Total+Stars)
+
+</div>
 
 ---
 
+<!-- Anime characters — centered, proper size, no stretching -->
 <div align="center">
-  <img src="cute1.png" alt="Cute Decoration 1" width="120" height="120" style="margin: 0 20px;">
-  <img src="cute2.png" alt="Cute Decoration 2" width="120" height="120" style="margin: 0 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="120" alt="anime girl 1"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="120" alt="anime girl 2"/>
 </div>
+
+<br/>
 
 ---
 
 ## 👋 About Me
 
-<div align="left">
+```yaml
+Name       : Vynaa (VynaaValerie)
+Pronouns   : She / Her
+Passion    : Building intelligent bots & AI automation
+Learning   : Advanced JavaScript & Natural Language Processing
+Email      : vynaachan@gmail.com
+WhatsApp   : +6282389924037
+```
 
-- 💎 **Pronouns:** She/Her  
-- 🤖 **Passion:** Building intelligent bots, AI automation & creative tech solutions  
-- 🧠 **Currently Learning:** Advanced JavaScript & Natural Language Processing  
-- 💌 **Contact:** 
-  - 📧 Email: [vynaachan@gmail.com](mailto:vynaachan@gmail.com)
-  - 📱 WhatsApp: +6282389924037  
-- 🎂 **GitHub Member Since:** 2010  
-- ✨ **2024 Contributions:** 4,206+ commits
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 🔧 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python&perline=5" alt="Tech Stack" />
-
-### 🛠️ Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm,bash&perline=5" alt="Tools" />
-
-### 🤖 Specializations
-`Discord Bots` • `ChatGPT Integration` • `Node.js` • `Automation` • `AI/ML` • `Real-time Systems`
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=VynaaValerie&show_icons=true&theme=radical&custom_title=📈+Code+Odyssey&hide=issues&count_private=true&include_all_commits=true&line_height=27&hide_border=false&bg_color=0d1117&border_color=F7139E&title_color=F7139E&text_color=ffffff&icon_color=F7139E" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VynaaValerie&layout=compact&theme=radical&langs_count=8&hide_border=false&bg_color=0d1117&border_color=F7139E&title_color=F7139E&text_color=ffffff" alt="Top Languages" width="100%"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=VynaaValerie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=9b5de5&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VynaaValerie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9" height="165" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
-  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=VynaaValerie&theme=radical&hide_border=false&background=0d1117&ring=F7139E&fire=F7139E&currStreakNum=F7139E&sideLabels=F7139E&dates=FFFFFF" alt="Streak Stats" />
 
-</div>
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=VynaaValerie&theme=radical&column=7&margin-w=5&no-frame=false&bg_color=0d1117&title_color=F7139E&icon_color=F7139E&text_color=ffffff&row=2" alt="Trophies" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=VynaaValerie&theme=tokyonight&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4)](https://git.io/streak-stats)
 
 </div>
 
@@ -90,77 +88,37 @@
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | 🔗 Links |
-|-----------|---------------|---------|
-| **Bot Development** | Intelligent Discord & Telegram bots with AI integration | [View Repos](https://github.com/VynaaValerie?tab=repositories) |
-| **ChatGPT Solutions** | Custom ChatGPT integration & AI automation tools | [View Repos](https://github.com/VynaaValerie?tab=repositories) |
-| **Creative Tech** | Innovative solutions blending creativity & technology | [View Repos](https://github.com/VynaaValerie?tab=repositories) |
+[![VynaaMD](https://github-readme-stats.vercel.app/api/pin/?username=VynaaValerie&repo=VynaaMD&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&icon_color=9b5de5)](https://github.com/VynaaValerie/VynaaMD)
 
 </div>
 
 ---
 
-## 💬 What I'm Working On
-
-```
-🤖 Building next-generation AI-powered automation tools
-🎨 Creating seamless bot-to-user experiences
-📚 Exploring advanced NLP & machine learning applications
-🌐 Contributing to open-source projects
-```
-
----
-
-## 🎯 Statistics Overview
+## 📫 Connect With Me
 
 <div align="center">
 
-```text
-📦 Public Repositories    : 59+
-🔐 Private Repositories   : 12+
-⭐ Most Used Language     : JavaScript
-🎯 Primary Focus          : Bot Development & AI
-🚀 Deployment Skills      : Node.js, Discord.js, Telegram API
-💡 Problem-solving        : Creative & Efficient Solutions
-```
+[![Instagram](https://img.shields.io/badge/Instagram-vynaa__valerie-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vynaa_valerie)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282389924037)
+[![Website](https://img.shields.io/badge/Website-vynaa.web.id-4361ee?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vynaa.web.id)
+[![Streaming](https://img.shields.io/badge/Nonton-nonton--yuk.zone.id-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://nonton-yuk.zone.id)
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
-
 <div align="center">
 
-<a href="https://github.com/VynaaValerie">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:vynaachan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://wa.me/6282389924037">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-
-</div>
-
----
-
-## ✨ Fun Facts
-
-<div align="center">
-
-```
-💻 Code is my canvas, creativity is my brush
-🎭 I believe in making technology fun and accessible
-🌍 Passionate about building tools that help others
-🔥 Always learning, always growing, never stopping
-```
-
-<img src="https://img.shields.io/badge/Thanks%20for%20Visiting-👋-F7139E?style=flat-square" alt="Thanks"/>
+<!-- Activity graph -->
+[![Vynaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VynaaValerie&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff69b4&line=9b5de5&point=ff69b4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <div align="center">
-  <sub>✨ Made with 💖 | Last Updated: December 2025</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%"/>
+
+<p><i>"Building bots that make life easier, one line of code at a time."</i></p>
+<p>Made with 💖 by <b>VynaaValerie</b></p>
+
 </div>
